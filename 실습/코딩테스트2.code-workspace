@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../JAVA/코딩테스트2"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../JAVA"
+		},
+		{
+			"path": "../../STUDY"
+		}
+	],
+	"settings": {
+		"codetogether.virtualCursorJoin": "ownVirtualCursor"
+	}
+}
